@@ -1,8 +1,6 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
-  <a href="https://www.gatsbyjs.org">
-    <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
-  </a>
+  Here are some examples of my code from 2019.
 </p>
 <h1 align="center">
   Gatsby's default starter
